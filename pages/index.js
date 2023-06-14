@@ -45,7 +45,7 @@ export default function Home() {
       className='bg-white flex rounded-lg w-1/2 font-latoRegular '>
         <div className='flex-1 text-gray-700 p-20'>
             <h1 className='text-3xl pb-2 font-latoBold'>
-              Let's get started</h1>
+              Let&apos;s get started</h1>
             <p className='text-lg text-gray-500'>
               Build your skills with a community of tech enthusiasts.
 
